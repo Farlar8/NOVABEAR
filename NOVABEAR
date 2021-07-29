@@ -1,0 +1,7 @@
+echo "# NOVABEAR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Farlar8/NOVABEAR.git
+git push -u origin main
